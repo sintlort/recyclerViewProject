@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">recyclerViewProject</string>\
+    <string-array name="mahasiswa">
+        <item>Dewa</item>
+        <item>Mada</item>
+        <item>Laksana</item>
+        <item>Putra</item>
+        <item>Dedy</item>
+        <item>Kurniawan</item>
+        <item>Putu</item>
+        <item>Abdi</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+        <item>Purnawan</item>
+    </string-array>
+    <string-array name="nim">
+        <item>1805551001</item>
+        <item>1805551002</item>
+        <item>1805551003</item>
+        <item>1805551004</item>
+        <item>1805551005</item>
+        <item>1805551006</item>
+        <item>1805551007</item>
+        <item>1805551008</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+        <item>1805551009</item>
+    </string-array>
+</resources>
